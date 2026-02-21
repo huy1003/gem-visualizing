@@ -15,4 +15,4 @@ Read the gemstone image, resize with the ratio pixel to mm has been calculated b
 
 Finally, put the gemstone image on top of the hand image. In this case I use 1 carat heart shape gemstone ~ 6mm.
 
-<img width="337" height="382" alt="Final_result" src="https://github.com/user-attachments/assets/6a1a047c-ca3c-4e16-837e-16c0f0121cef" />
+<img width="335" height="352" alt="Final_result" src="https://github.com/user-attachments/assets/3403af86-d6d8-47cc-bd83-317b2c06648f" />
